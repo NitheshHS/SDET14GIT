@@ -6,6 +6,7 @@ public class SecondClass {
 	
 		System.out.println("this is a second class in project");
 
+		System.out.println("adding more code");
 	}
 
 }
